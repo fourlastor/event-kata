@@ -1,9 +1,8 @@
 package com.fourlastor.bankapp;
 
 public enum Currency {
-    EURO(1.3f),
-    STERLING(1.2f),
-    DOLLARS(1f);
+    GBP(1.2f),
+    USD(1f);
 
     private final float ratio;
 
