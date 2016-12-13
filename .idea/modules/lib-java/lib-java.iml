@@ -17,7 +17,6 @@
       <excludeFolder url="file://$MODULE_DIR$/../../../lib-java/build/reports" />
       <excludeFolder url="file://$MODULE_DIR$/../../../lib-java/build/test-results" />
       <excludeFolder url="file://$MODULE_DIR$/../../../lib-java/build/tmp" />
-      <excludeFolder url="file://$MODULE_DIR$/../../../lib-java/build/classes" />
     </content>
     <content url="file://$MODULE_DIR$/../../../lib-java/build/generated/source/apt/main">
       <sourceFolder url="file://$MODULE_DIR$/../../../lib-java/build/generated/source/apt/main" isTestSource="false" generated="true" />
@@ -27,17 +26,10 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-<<<<<<< HEAD
     <orderEntry type="library" name="Gradle: com.google.auto.value:auto-value:1.3" level="project" />
-=======
->>>>>>> initial l1
     <orderEntry type="library" scope="TEST" name="Gradle: junit:junit:4.12" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.easytesting:fest-assert-core:2.0M10" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.easytesting:fest-util:1.2.5" level="project" />
-<<<<<<< HEAD
-=======
-    <orderEntry type="library" name="Gradle: com.google.auto.value:auto-value:1.3" level="project" />
->>>>>>> initial l1
   </component>
 </module>
