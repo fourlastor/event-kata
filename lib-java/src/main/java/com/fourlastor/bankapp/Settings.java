@@ -5,7 +5,7 @@ import com.google.auto.value.AutoValue;
 @AutoValue
 abstract class Settings {
 
-    public static Builder builder() {
+    static Builder builder() {
         return new AutoValue_Settings.Builder();
     }
 
