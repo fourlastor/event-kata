@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <bytecodeTargetLevel>
-      <module name="lib-java_main" target="1.7" />
-      <module name="lib-java_test" target="1.7" />
-      <module name="lib_main" target="1.7" />
-      <module name="lib_test" target="1.7" />
-      <module name="parent_main" target="1.7" />
-      <module name="parent_test" target="1.7" />
-    </bytecodeTargetLevel>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+    </annotationProcessing>
   </component>
 </project>
