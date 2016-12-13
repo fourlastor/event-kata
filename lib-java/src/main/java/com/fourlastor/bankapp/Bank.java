@@ -1,4 +1,4 @@
 package com.fourlastor.bankapp;
 
-public class BankApp {
+public class Bank {
 }
